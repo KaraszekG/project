@@ -3,4 +3,4 @@ szam2 = int(input("Adj meg egy számot: "))
 if szam1 > szam2:
   print(szam1, "a nagyobb!")
 else:
-    print(szam2, "a nagyobb!")
+  print(szam2, "a nagyobb!")
